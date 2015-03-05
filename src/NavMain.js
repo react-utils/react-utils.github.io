@@ -10,7 +10,7 @@ var InternalLink = Router.Link;
 var NAV_LINKS = {
 
   'Component Helper': {
-    link: 'react-utils-helper',
+    link: '/react-utils-helper',
     title: 'Component Helper'
   }
 };
