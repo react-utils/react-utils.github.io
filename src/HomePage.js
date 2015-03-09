@@ -28,24 +28,24 @@ var HomePage = React.createClass({
                             <div className="col-md-4">
                               <ul className="nav nav-stacked span4">
                                 <li><a href="/react-utils-helper">React Component Helper</a></li>
-                                <li><a className="text-muted" href="javascript:;">React Charting</a></li>
-                                <li><a className="text-muted" href="javascript:;">React jQuery-ui</a></li>
+                                <li><a className="text-muted" href="javascript:;">React Charting (Coming Soon)</a></li>
+                                <li><a className="text-muted" href="javascript:;">React jQuery-ui (Coming Soon)</a></li>
                                 
                               </ul>
                             </div>
 
                              <div className="col-md-4">
                               <ul className="nav nav-stacked span4">
-                                <li><a className="text-muted" href="javascript:;">React Bootstrap Components</a></li>
-                                <li><a className="text-muted" href="javascript:;">React Services</a></li>
-                                <li><a className="text-muted" href="javascript:;">React Massive Components</a></li>
+                                <li><a className="text-muted" href="javascript:;">React Bootstrap Components (Coming Soon)</a></li>
+                                <li><a className="text-muted" href="javascript:;">React Services (Coming Soon)</a></li>
+                                <li><a className="text-muted" href="javascript:;">React Massive Components (Coming Soon)</a></li>
                                 
                               </ul>
                             </div>
 
                             <div className="col-md-4">
                               <ul className="nav nav-stacked span4">
-                                <li><a className="text-muted" href="javascript:;">React Form Components</a></li>
+                                <li><a className="text-muted" href="javascript:;">React Form Components (Coming Soon)</a></li>
                                 
                               </ul>
                             </div>
