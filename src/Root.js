@@ -114,6 +114,7 @@ var Root = React.createClass({
             <script src="vendor/codemirror/javascript.js" />
             <script src="vendor/JSXTransformer.js" />
             <script src="assets/bundle.js" />
+            <script src="javascripts/analytics.js" />
           </body>
         </html>
       );
